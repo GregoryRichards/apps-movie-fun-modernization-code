@@ -1,4 +1,7 @@
 spring:
+  application:
+      name: album-service
+
   mvc.view:
     prefix: /WEB-INF/
     suffix: .jsp
